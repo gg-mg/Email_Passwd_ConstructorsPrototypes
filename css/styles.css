@@ -1,0 +1,39 @@
+/* #show-contact {
+    display: none;
+  }
+  
+  .contact {
+    cursor: pointer;
+    color: #0088cc;
+  }
+  
+  .contact:hover {
+    text-decoration: underline;
+  } */
+ .emailPassword {
+    width: 7em;
+    float: left;
+    padding-right: 0;
+    padding-bottom: .5em;
+    padding-top:.5em;
+}
+  #exampleInputEmail1{
+    width: 300px;
+   
+  }
+  #exampleInputPassword1{
+    width: 300px;
+padding-left: 1em;
+  }
+  /* #password{float: left;} */
+
+ body{
+    margin: auto;        
+    display: block;          
+    width: 450px;          
+    border: 2px solid blueviolet;
+    padding: 1em;
+}
+ 
+
+
